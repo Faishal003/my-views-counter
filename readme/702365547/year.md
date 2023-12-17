@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Faishal003/my-views-counter)
 
-### :octocat: [Developing-a-Blog-Website-with-Django](https://github.com/Faishal003/Developing-a-Blog-Website-with-Django)
-![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/731950256/large/year.png)
+### :octocat: [potato-disease](https://github.com/Faishal003/potato-disease)
+![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>263</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/702365547/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/702365547/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/week.md)
 ```
 ### Header
-# Developing-a-Blog-Website-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/731950256/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/year.md)
+# potato-disease [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/year.md)
 ```readme
-# Developing-a-Blog-Website-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/731950256/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/year.md)
+# potato-disease [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
