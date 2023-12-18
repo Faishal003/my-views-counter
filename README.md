@@ -51,9 +51,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/702365547/small/year.png" height="20"> 4
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Faishal003/my-views-counter/tree/master/readme/732339559/year.md">
+				my-views-counter
+			</a>
+		</td>
+		<td>
+			2023/12/15 4:13 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/732339559/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/18 4:11 AM UTC</i></small>
+<small><i>Last updated on 2023/12/18 4:13 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
