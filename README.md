@@ -67,9 +67,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/734469248/small/year.png" height="20"> 309
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Faishal003/my-views-counter/tree/master/readme/740708103/year.md">
+				Social-Media-with-Django
+			</a>
+		</td>
+		<td>
+			2024/1/5 11:31 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/740708103/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/8 6:19 PM UTC</i></small>
+<small><i>Last updated on 2024/1/8 11:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Faishal003/my-views-counter)
 
-### :octocat: [Ecommerce-website-with-Django](https://github.com/Faishal003/Ecommerce-website-with-Django)
-![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/734469248/large/year.png)
+### :octocat: [Social-Media-with-Django](https://github.com/Faishal003/Social-Media-with-Django)
+![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>29</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>249</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>78</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/734469248/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/734469248/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/734469248/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/734469248/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md)
 ```
 ### Header
-# Ecommerce-website-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/734469248/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/734469248/year.md)
+# Social-Media-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/year.md)
 ```readme
-# Ecommerce-website-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/734469248/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/734469248/year.md)
+# Social-Media-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
