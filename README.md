@@ -83,9 +83,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/740708103/small/year.png" height="20"> 65
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Faishal003/my-views-counter/tree/master/readme/744224399/year.md">
+				Email-OTP-Verification-in-Django
+			</a>
+		</td>
+		<td>
+			2024/1/13 9:58 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Faishal003/my-views-counter/raw/master/graph/744224399/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/16 6:18 PM UTC</i></small>
+<small><i>Last updated on 2024/1/16 9:58 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

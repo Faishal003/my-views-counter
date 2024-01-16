@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Faishal003/my-views-counter)
 
-### :octocat: [potato-disease](https://github.com/Faishal003/potato-disease)
-![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/large/year.png)
+### :octocat: [Email-OTP-Verification-in-Django](https://github.com/Faishal003/Email-OTP-Verification-in-Django)
+![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/702365547/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/744224399/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/702365547/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/744224399/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/week.md)
 ```
 ### Header
-# potato-disease [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/year.md)
+# Email-OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
 ```readme
-# potato-disease [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/702365547/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/702365547/year.md)
+# Email-OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
