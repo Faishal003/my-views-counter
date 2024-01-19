@@ -86,7 +86,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/Faishal003/my-views-counter/tree/master/readme/744224399/year.md">
-				Email-OTP-Verification-in-Django
+				OTP-Verification-in-Django
 			</a>
 		</td>
 		<td>
@@ -101,7 +101,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/19 6:19 AM UTC</i></small>
+<small><i>Last updated on 2024/1/19 12:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

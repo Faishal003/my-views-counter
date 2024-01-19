@@ -1,6 +1,6 @@
 ## [🔙 my-views-counter](https://github.com/Faishal003/my-views-counter)
 
-### :octocat: [Email-OTP-Verification-in-Django](https://github.com/Faishal003/Email-OTP-Verification-in-Django)
+### :octocat: [OTP-Verification-in-Django](https://github.com/Faishal003/OTP-Verification-in-Django)
 ![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/19 6:19 AM UTC</i></small>
+<small><i>Last updated on 2024/1/19 12:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/744224399/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/week.md)
 ```
 ### Header
-# Email-OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
+# OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
 ```readme
-# Email-OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
+# OTP-Verification-in-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/744224399/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
