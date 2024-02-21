@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Faishal003/my-views-counter)
 
-### :octocat: [Social-Media-with-Django](https://github.com/Faishal003/Social-Media-with-Django)
-![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/large/year.png)
+### :octocat: [Mobile-Application-for-Smart-Greenhouse-Farming](https://github.com/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming)
+![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/graph/753858268/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>100</code>
+			<code>36</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>129</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/753858268/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/753858268/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/753858268/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/753858268/week.md)
 ```
 ### Header
-# Social-Media-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/year.md)
+# Mobile-Application-for-Smart-Greenhouse-Farming [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/753858268/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/753858268/year.md)
 ```readme
-# Social-Media-with-Django [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/740708103/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/year.md)
+# Mobile-Application-for-Smart-Greenhouse-Farming [<img alt="Image of my-views-counter" src="https://github.com/Faishal003/my-views-counter/blob/master/graph/753858268/small/year.png" height="20">](https://github.com/Faishal003/my-views-counter/blob/master/readme/753858268/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
